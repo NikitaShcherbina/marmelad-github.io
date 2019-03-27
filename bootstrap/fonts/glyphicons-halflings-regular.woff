@@ -1,0 +1,1338 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <META name="description" content="Франшиза Мята Lounge"/>
+    <link rel="icon" type="image/png" href="favicon.png"/>
+    <title>Франшиза Мята Lounge</title>
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+
+	<link href="css/normalize.css" rel="stylesheet" type="text/css">
+<link href="css/components.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
+<link href="css/libs.min.css" rel="stylesheet" type="text/css">
+<!--FONT-->
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,900&amp;subset=cyrillic" rel="stylesheet">
+<link rel="stylesheet" href="fonts/fonts.css">
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '523648497995265');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=523648497995265&ev=PageView&noscript=1"
+/></noscript>
+
+<noindex><script async src="https://stats.lptracker.ru/code/new/47285"></script></noindex>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+</head>
+<body>
+
+	<!--NAV-->
+	<div class="top-nav sticky-nav">
+		<div class="container ">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="nav-holder">
+						<div class="logo">
+							<a href="#">
+								<img src="images/header/logo.png" alt="">
+							</a>
+						</div>
+						<div class="nav-wrap">
+							<ul>
+								<li>
+									<a href="#counts" class="scrollto">
+										О нас
+									</a>
+								</li>
+								<li>
+									<a href="#partners" class="scrollto">
+										Привилегии
+									</a>
+								</li>
+								<li>
+									<a href="#step" class="scrollto">
+										5 шагов к открытию
+									</a>
+								</li>
+								<li>
+									<a href="#reviews" class="scrollto">
+										Отзывы
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="nav-btn">
+							<div class="show-menu-btn">
+								<span></span>
+								<span></span>
+								<span></span>
+							</div>
+						</div>
+						<div class="nav-call">
+							<p><img src="images/header/nav-call.png" alt=""> +7 800 555 6007</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END NAV-->
+	<!--MOBILE NAV -->
+	<div class="overlay-menu">
+		<div class="menu-table">
+			<div class="menu-table-cell">
+				<ul class="navigation-mobile">
+					<li>
+						<a href="#counts" class="scrollto">
+							О нас
+						</a>
+					</li>
+					<li>
+						<a href="#partners" class="scrollto">
+							Привилегии
+						</a>
+					</li>
+					<li>
+						<a href="#step" class="scrollto">
+							5 шагов к открытию
+						</a>
+					</li>
+					<li>
+						<a href="#reviews" class="scrollto">
+							Отзывы
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!--END MOBILE NAV -->
+	<!--HEADER-->
+	<header  >
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="header-content">
+						<h1>ОТКРОЙТЕ СВОЮ КАЛЬЯННУЮ всего за <br/>30 дней и зарабатывайте чистыми от <br/><span class="accent-color">250 000 рублей</span> уже с первого месяца</h1>
+						<div class="header-subtitle">
+							<p >
+								Скачайте готовый бизнес­-план по открытию заведения <br/>в Вашем городе и мы вышлем его в течении 20 секунд
+							</p>
+						</div>
+						<a href="#" class="mint-btn form-trigger">
+							<img src="images/header/btn-icon.png" alt=""> Получить бизнес-план
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!--END HEADER-->
+	<!--COUNTERS-->
+	<div class="counters" id="counts">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>ЗА 2 ГОДА РАБОТЫ <br/>СЕТИ МЯТА LOUNGE</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="counter-row">
+						<!--counter item-->
+						<div class="counter-item">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}' alt="">
+								<span class="spincrement">76</span>
+							</div>
+							<div class="counter-text">
+								<p>открытых кальянных <br/>по всему СНГ</p>
+							</div>
+						</div>
+						<!--end counter item-->
+						<!--counter item-->
+						<div class="counter-item">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}' alt="">
+								<span class="spincrement">4</span>
+								<span >-</span>
+								<span class="spincrement">8</span>
+							</div>
+							<div class="counter-text">
+								<p>месяцев полная <br/>окупаемость проекта</p>
+							</div>
+						</div>
+						<!--end counter item-->
+												<!--counter item-->
+						<div class="counter-item hidden-mobile">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}'alt="">
+								<span class="spincrement">17</span>
+							</div>
+							<div class="counter-text">
+								<p>кальянных на стадии <br/>подготовки к открытию <br>прямо сейчас</p>
+							</div>
+						</div>
+						<!--end counter item-->
+						
+						<!--counter item-->
+						<div class="counter-item visible-mobile">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}'alt="">
+								<span class="spincrement">17</span>
+							</div>
+							<div class="counter-text">
+								<p>кальянных на стадии <br/>подготовки к открытию <br>прямо сейчас</p>
+							</div>
+						</div>
+						<!--end counter item-->
+					</div>
+					<div class="counter-row " >
+						<!--counter item-->
+						<div class="counter-item visible-mobile">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}' alt="">
+								<span class="spincrement">150</span>
+							</div>
+							<div class="counter-text">
+								<p>тыс. руб. минимальная <br/>прибыль(г. Ревда, 70 тыс. <br/>жителей)</p>
+							</div>
+						</div>
+						<!--end counter item-->
+						<!--counter item-->
+						<div class="counter-item hidden-mobile">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}' alt="">
+								<span class="spincrement">150</span>
+							</div>
+							<div class="counter-text">
+								<p>тыс. руб. минимальная <br/>прибыль(г. Ревда, 70 тыс. <br/>жителей)</p>
+							</div>
+						</div>
+						<!--end counter item-->
+						<!--counter item-->
+						<div class="counter-item">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}'alt="">
+								<span class="spincrement">400</span>
+
+							</div>
+							<div class="counter-text">
+								<p>тыс. руб. средняя прибыль <br/>(г. Тула, Воронеж, Казань, <br/>Волгоград, Одесса и др.)</p>
+							</div>
+						</div>
+						<!--end counter item-->
+						<!--counter item-->
+						<div class="counter-item">
+							<div class="counter-icon">
+								<img src="images/count-texture.png" data-parallax='{"x": 20}'alt="">
+								<span class="spincrement">1.6</span>
+							</div>
+							<div class="counter-text">
+								<p>млн. руб. максимальная <br/>прибыль(г. Москва, <br/>Минск)</p>
+							</div>
+						</div>
+						<!--end counter item-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END COUNTERS-->
+	<!--PRESENT-->
+	<div class="present">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading light-heading">
+						<h2>ПРЕЗЕНТАЦИЯ ФРАНШИЗЫ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="present-holder">
+						<div class="quote">
+							<p>Кликайте на видео и мы за <br/>2 минуты покажем Вам все <br/>ключевые выгоды проекта</p>
+							<div class="quote-bottom">
+								Ильяс Валиуллин
+								<span>Основатель Мята Lounge</span>
+							</div>
+						</div>
+						<div class="present-video video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=CyYIqKmamLw&amp;autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/present/presentation.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+					<div class="button-holder">
+						<a href="#" class="mint-btn form-trigger">ПОЛУЧИТЬ БИЗНЕС­-ПЛАН</a>
+						<p>+ Бесплатная консультация</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END PRESENT-->
+	<div class="today">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>МЯТА LOUNGE СЕГОДНЯ</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="today-holder">
+							<img src="images/today.png" class="today-img" alt="">
+							<div class="today-content">
+								<div class="left">
+									<p>150 тысяч гостей в сети каждый месяц</p>
+									<p>Команда из 800 лучших специалистов</p>
+									<p>Отлаженная бизнес модель</p>
+									<p>25 видов авторских табаков</p>
+								</div>
+								<div class="right">
+									<p>Регламенты и стандарты федеральной сети</p>
+									<p>Ежегодные съезды и общение партнеров</p>
+									<p>Продуманная ценовая политика</p>
+									<p>Уникальная концепция и атмосфера</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--NEW-->
+	<div class="new">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading light-heading">
+						<h2>5 НОВЫХ ЗАВЕДЕНИЙ МЯТА ОТКРЫВАЕТСЯ ЕЖЕМЕСЯЧНО</h2>
+						<p>Смотрите, как это может быть у вас</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=TgfaLrnHcgs&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/smolensk.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Смоленск</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=_GlypZKNDgY&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/moscva.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Москва</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=y_5DzZXDjHY&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/volgograd.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Волгоград</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=vs2lmuIcMVE&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/kaluga.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Калуга</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=qFZqfUSEBxk&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/simpheropol.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Симферополь</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!--new item-->
+					<div class="new-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=oT_r6JHHkCg&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/new/ivanovo.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="new-caption">
+							<p><img src="images/marker.png" alt="">Иваново</p>
+						</div>
+					</div>
+					<!--end new item-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END NEW-->
+	<!--PARTNERS-->
+	<div class="partners" id="partners">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>СТАВ НАШИМ ПАРТНЕРОМ ВЫ ПОЛУЧАЕТЕ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="animation-content"><!--container with animation-->
+						<div class="slide-bottom">
+							<div class="partner-item">
+								<div class="icon">
+									<img src="images/partners/1.png" alt="">
+								</div>
+								<div class="text">
+									<p>Смету ремонтных работ</p>
+								</div>
+							</div>
+						</div>
+					</div><!--end container with animation-->
+				</div>
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item pl-70">
+								<div class="icon">
+									<img src="images/partners/2.png" alt="">
+								</div>
+								<div class="text">
+									<p>Помощь при выборе места</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item">
+								<div class="icon">
+									<img src="images/partners/3.png" alt="">
+								</div>
+								<div class="text">
+									<p>Поддержка опытных специалистов</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item pl-70">
+								<div class="icon">
+									<img src="images/partners/4.png" alt="">
+								</div>
+								<div class="text">
+									<p>Система мотивации персонала</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item">
+								<div class="icon">
+									<img src="images/partners/5.png" alt="">
+								</div>
+								<div class="text">
+									<p>Контакты всех поставщиков</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item pl-70">
+								<div class="icon">
+									<img src="images/partners/6.png" alt="">
+								</div>
+								<div class="text">
+									<p>Поддержка по юридическим <br/>вопросам</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item">
+								<div class="icon">
+									<img src="images/partners/7.png" alt="">
+								</div>
+								<div class="text">
+									<p>Рекомендации по дизайну интерьера</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				<div class="col-sm-6">
+					<div class="animation-content">
+						<div class="slide-bottom">
+							<div class="partner-item pl-70">
+								<div class="icon">
+									<img src="images/partners/8.png" alt="">
+								</div>
+								<div class="text">
+									<p>Обучение Ваших кальянщиков</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="button-holder">
+						<a href="#" class="mint-btn form-trigger">ПОЛУЧИТЬ БИЗНЕС­-ПЛАН</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END PARTNERS-->
+	<!--STEP-->
+	<div class="step" id="step">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading light-heading">
+						<h2>5 ПРОСТЫХ ШАГОВ К ОТКРЫТИЮ ВАШЕЙ КАЛЬЯННОЙ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="step-holder">
+						<div class="step-row">
+							<div class="step-left"></div>
+							<div class="step-middle">
+								<div class="step-logo">
+									<span>
+										<img src="images/step/logo.png" alt="">
+									</span>
+								</div>
+							</div>
+							<div class="step-right"></div>
+						</div>
+						<div class="step-row">
+							<div class="step-left">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-left">
+										<div class="step-item">
+											<h3>БИЗНЕС-ПЛАН И ЗНАКОМСТВО</h3>
+											<p>Оставляете заявку и скачиваете бизнес­-план <br/>для ознакомления. Мы связываемся с вами и <br/>консультируем по всем деталям проекта.</p>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+							<div class="step-middle">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-bottom">
+										<div class="step-number">
+											<span class="border1">
+												<span class="border2">
+													<span class="border3">
+														<span class="number">
+															01
+														</span>
+													</span>
+												</span>
+											</span>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+							<div class="step-right">
+							</div>
+						</div>
+						<div class="step-row step-reverse">
+							<div class="step-left">
+							</div>
+							<div class="step-middle">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-bottom">
+										<div class="step-number">
+											<span class="border1">
+												<span class="border2">
+													<span class="border3">
+														<span class="number">
+															02
+														</span>
+													</span>
+												</span>
+											</span>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+							<div class="step-right">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-right">
+										<div class="step-item">
+											<h3>ПРЕЗЕНТАЦИЯ И ПОДПИСАНИЕ ДОГОВОРА</h3>
+											<p>После консультации менеджер отправляет более <br/>детальную презентацию со всеми данными. <br/>Подписываем договор о сотрудничестве.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="step-row">
+							<div class="step-left">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-left">
+										<div class="step-item">
+											<h3>ПЛАН, ПОМОЩЬ, ИНФОРМАЦИЯ</h3>
+											<p>Вы получаете пошаговый план по открытию и всю <br/>необходимую поддержку по любым возникающим <br/>вопросам от персонального менеджера.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="step-middle">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-bottom">
+										<div class="step-number">
+											<span class="border1">
+												<span class="border2">
+													<span class="border3">
+														<span class="number">
+															03
+														</span>
+													</span>
+												</span>
+											</span>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+							<div class="step-right">
+							</div>
+						</div>
+						<div class="step-row step-reverse">
+							<div class="step-left">
+							</div>
+							<div class="step-middle">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-bottom">
+										<div class="step-number">
+											<span class="border1">
+												<span class="border2">
+													<span class="border3">
+														<span class="number">
+															04
+														</span>
+													</span>
+												</span>
+											</span>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+							<div class="step-right">
+								<div class="step-item">
+									<div class="animation-content"><!--container with animation-->
+										<div class="slide-right">
+											<h3>ОБУЧЕНИЕ И СЕРТИФИКАЦИЯ</h3>
+											<p>Мы обучаем Вас системе контроля и мотивации <br/>сотрудников. Ваши персонал проходит обучение <br/>стандартам и регламентам работы сети.</p>
+										</div>
+									</div>
+									
+								</div>
+							</div>
+						</div>
+						<div class="step-row">
+							<div class="step-left">
+								<div class="step-item">
+									<div class="animation-content"><!--container with animation-->
+										<div class="slide-left">
+											<h3>ПОДГОТОВКА К ОТКРЫТИЮ</h3>
+											<p>Производится ремонт, закупка оборудования и <br/>составляется план на 1­й месяц работы кальянной. <br/>Ваше заведение открывается для посетителей :)</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="step-middle">
+								<div class="animation-content"><!--container with animation-->
+									<div class="slide-bottom">
+										<div class="step-number">
+											<span class="border1">
+												<span class="border2">
+													<span class="border3">
+														<span class="number">
+															05
+														</span>
+													</span>
+												</span>
+											</span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="step-right">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END STEP-->
+	<!--PARTNER VIDEO-->
+	<div class="partner-video">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>ПАРТНЕРАМИ МЯТА LOUNGE СТАНОВЯТСЯ ПО ВСЕМУ СНГ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="pv-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=Cksi4dvXPQs&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/partner-video/smolensk.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<p>БЕЛАРУСЬ</p>
+					</div>	
+				</div>
+				<div class="col-md-4">
+					<div class="pv-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=zYoxJt8WKl4&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/partner-video/belarus.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<p>КАЗАХСТАН</p>
+					</div>	
+				</div>
+				<div class="col-md-4">
+					<div class="pv-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=hkUj8-2iKCc&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/partner-video/ukraine.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<p>УКРАИНА</p>
+					</div>	
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<!--END PARTNER VIDEO-->
+	<!--MAP-->
+	<div class="map">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>УСПЕЙТЕ ЗАБРОНИРОВАТЬ СВОЙ ГОРОД <br/>И СТАТЬ ЧАСТЬЮ МЯТНОЙ СЕМЬИ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6"></div>
+				<div class="col-md-6">
+					<div class="map-logo">
+						<img src="images/map/logo.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="map-img">
+						<img src="images/map/mobile.jpg" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END MAP-->
+	<!--SERT-->
+	<div class="sert" >
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading light-heading">
+						<h2>НАШИ ДОСТИЖЕНИЯ</h2>
+						<p>За это время мы уже зарегистрировали товарный знак, чтобы наши <br/>партнеры могли развивать свой бизнес под официальным брендом</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="sert-label">
+						<img src="images/sert/labels/1.png" alt="">
+					</div>
+					<div class="sert-label">
+						<img src="images/sert/labels/2.png" alt="">
+					</div>
+					<div class="sert-label">
+						<img src="images/sert/labels/3.png" alt="">
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="sert-img">
+						<a href="images/sert/large.JPG"  data-fancybox="gallery" class="fancybox">
+							<img src="images/sert/item.png" alt="">
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="button-holder">
+						<a href="#" class="mint-btn form-trigger">ПОЛУЧИТЬ БИЗНЕС­-ПЛАН</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END SERT-->
+	<!--SUPPORT-->
+	<div class="support">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>РЕГУЛЯРНАЯ ПОДДЕРЖКА ПОСЛЕ ОТКРЫТИЯ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-left">
+								<div class="sup-icon">
+									<img src="images/support/1.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>Маркетинговое <br/>сопровождение</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-top">
+								<div class="sup-icon">
+									<img src="images/support/2.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>On­line консультации по <br/>актуальным вопросам</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-right">
+								<div class="sup-icon">
+									<img src="images/support/3.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>Закрытые <nobr>мастер­-классы</nobr><br/>для партнеров</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-right">
+								<div class="sup-icon">
+									<img src="images/support/4.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>Конференции и бизнес <br/>встречи для франчайзи</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-bottom">
+								<div class="sup-icon">
+									<img src="images/support/5.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>План вечеринок на <br/>каждые выходные</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="sup-item">
+						<div class="animation-content"><!--container with animation-->
+							<div class="slide-left">
+								<div class="sup-icon">
+									<img src="images/support/6.png" alt="">
+								</div>
+							</div>
+						</div>
+						
+						<div class="sup-text">
+							<p>Тексты и стратегии <br/>для продвижения в&nbsp;соц&nbsp;сетях</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END SUPPORT-->
+	<!--REVIEWS-->
+	<div class="reviews" id="reviews">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading light-heading">
+						<h2>ЧТО ГОВОРЯТ НАШИ ФРАНЧАЙЗИ</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<!--rev item
+					<div class="rev-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=668nUCeBHyY&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/reviews/1.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="rev-caption">
+							<p>Отзыв 1</p>
+						</div>
+					</div>
+					end rev item-->
+				</div>
+				<div class="col-md-6">
+					<!--rev item-->
+					<div class="rev-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=lj3rgp4rvFI&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/reviews/1.png" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="rev-caption">
+							<p></p>
+						</div>
+					</div>
+					<!--end rev item-->
+				</div>
+				<div class="col-md-3">
+					<!--rev item
+					<div class="rev-item">
+						<div class=" video-box">
+							<a data-fancybox  href="https://www.youtube.com/watch?v=668nUCeBHyY&amp;autoplay=1&amp;rel=0&amp;showinfo=0">
+								<div class="cover-box">
+									<img src="images/reviews/1.jpg" alt="">
+								</div>
+								<div class="play-holder">
+									<div class="border">
+										<img src="images/play.png" alt="">
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="rev-caption">
+							<p>Отзыв 3</p>
+						</div>
+					</div>
+					end rev item-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END REVIEWS-->
+	<div class="plane">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mint-heading">
+						<h2>ПОЛУЧИТЕ ДЕТАЛЬНЫЙ БИЗНЕС­-ПЛАН МЯТА LOUNGE <br/>+ БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ СПЕЦИАЛИСТА</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="plane-img">
+						<img src="images/pdf.png" alt="">
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="plane-content">
+						<div class="text">
+							<p>Как зарабатывать <span>от 250 000 рублей</span> чистыми уже <br/>с первого месяца открытия своей кальянной</p>
+						</div>
+						<div class="button-holder">
+							<a href="#" class="mint-btn form-trigger"><img src="images/header/btn-icon.png" alt=""> Получить бизнес-план</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="footer-holder">
+						<div class="logo">
+							<a href="#">
+								<img src="images/header/logo.png" alt="">
+							</a>
+						</div>
+						<div class="text" style="text-align: center;">
+							<p>ООО "Миловидов" ИНН&nbsp;1659121320 КПП&nbsp;165901001 ОГРН&nbsp;1121690047214 ОКПО&nbsp;12963749</p>
+						</div>
+						<div class="contact">
+							<p>
+								<img src="images/footer/call.png" alt="">+7 800 555 6007
+							</p>
+							<p>
+								<img src="images/footer/mail.png" alt="">airat@imcimc.ru
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="copyright">
+		<p>&copy; 2017 <a href="/">myatalounge24.ru</a> Все права защищены.</p>
+	</div>
+	<!--MODAL FORM -->
+	<div class="popup-forma ">
+		<div class="popup-forma__cover"></div>
+		<div class="popup-forma__wrapper">
+			<div class="popup-wrapper">
+				<div class="content-holder">
+					<div class="forma">
+						<p>Заполните форму</p>
+
+						<form action="" id="modal_form" accept-charset="utf-8" method="post">
+							<div class="form-group">
+								<input class="form-control mint-input" type="text" name="first_name" placeholder="Введите Ваше имя" required>
+							</div>
+							<div class="form-group">
+								<input class="form-control mint-input" id="em" type="email" name="email" placeholder="Ваш основной E­mail" required>
+							</div>
+							<div class="form-group">
+								<input class="form-control mint-input" id="Phone" type="text" name="phone" data-name="Phone" required maxlength="13">
+							</div>
+							<div class="button-holder">
+								<button class="g-recaptcha mint-btn" data-sitekey="6LdUSUwUAAAAAMIGDM7JheW1L26ocTLWnVqLUgOT" data-callback="onSubmit">Продолжить</button>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div class="popup-close">
+					<div class="popup-close__ico">
+						<img src="images/close.png" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--END MODAL FORM -->
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48174257 = new Ya.Metrika({
+                    id:48174257,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter --> 
+<script>
+						function onSubmit(token) {	  
+						  //document.getElementById("modal_form").submit();
+						    var elem = $("#modal_form");
+						  localStorage.setItem('email', elem.find("input[name='email']").val());
+					if(elem.valid() == true){
+						elem.submit();
+					}else{
+						grecaptcha.reset();
+					}
+						}
+						</script>
+	<script type="text/javascript">
+		function jest() {
+			localStorage.setItem('email', document.getElementById('em').value);
+			yaCounter47022966.reachGoal('zayavka');
+			return true;
+		}
+		function checkLength()
+		{
+			if (document.getElementById('Phone').value.length > 11)
+			{
+				document.getElementById('Phone').value = document.getElementById('Phone').value.substr(0, 11);
+			}
+		}
+	</script>
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?wcb_code=0639d68427bd95eaa53bc41266961066" charset="UTF-8" async></script>
+
+
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="js/jquery.softform/jquery.softform.js"></script>
+	<link rel="stylesheet" href="js/jquery.softform/jquery.softform.css">
+     <script src="js/libs.min.js"></script>
+  <script>
+    $("#Phone").intlTelInput(
+            {
+              utilsScript       : 'js/utils.js',
+              defaultCountry    : 'auto',
+              separateDialCode  : false,
+              nationalMode      : false,
+              initialCountry    : 'auto',
+              geoIpLookup       : function (callback) {
+                $.get("https://ipinfo.io", function () {
+                }, "jsonp").always(function (resp) {
+                  var countryCode = (resp && resp.country) ? resp.country : "";
+                  callback(countryCode);
+                });
+              },
+              preferredCountries: ['ua', 'ru', 'by', 'kz']
+            });
+  </script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+	<script src="js/jquery.imagesloaded.min.js"></script>
+	<script src="js/jquery-imagefill.js"></script>
+	<script src="js/jquery.spincrement.min.js"></script>
+	<script src="js/jquery.fadethis.js"></script>
+	<script src="js/SmoothScroll.js"></script>
+	<script src="js/jquery.parallax-scroll.js"></script>
+	<script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
+	<script src="js/custom.js"></script>
+	<script>$('.animation-content').fadeThis({speed: 400,distance: 40,reverse:false});</script>
+	<script>
+    //script to create sticky header
+    jQuery(function () {
+    	createSticky(jQuery(".sticky-nav"));
+    });
+    function createSticky(sticky) {
+    	if (typeof sticky != "undefined") {
+    		var pos = sticky.offset().top,
+    		win = jQuery(window);
+    		win.on("scroll", function () {
+
+    			if (win.scrollTop() > 50) {
+    				sticky.addClass("sticky");
+    			} else {
+    				sticky.removeClass("sticky");
+    			}
+    		});
+    	}
+    }
+</script>
+
+
+<script>(function(w, d, s, h, id) { w.roistatProjectId = id; w.roistatHost = h; var p = d.location.protocol == "https:" ? "https://" : "http://"; var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init"; var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);})(window, document, 'script', 'cloud.roistat.com', '4a269780fc4b27e55e7d7b2409e1c481');</script>
+</body>
+</html>
